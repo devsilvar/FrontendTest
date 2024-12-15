@@ -1,4 +1,4 @@
-# Multi-Step Form Wizard React App
+# Multi-Step Form Wizard React App.
 
 A React application that implements a multi-step form wizard using the Formik library for form management and validation, along with other utilities like Axios for HTTP requests and React Icons for icons.
 
