@@ -73,17 +73,20 @@ Open your browser and navigate to http://localhost:5173.
 - `axios`: ^0.24.0 - Promise-based HTTP client for making API requests
 - `react-icons`: ^4.3.1 - Include popular icons in your React projects
 - `bootstrap`: ^5.1.3 - Front-end framework for responsive, mobile-first projects
+## Project Structure
 
+```bash
 .
 ├── src
-│ ├── components
-│ │ ├── FormWizard.tsx
-│ │ ├── StepOne.tsx
-│ │ ├── StepTwo.tsx
-│ │ ├── StepThree.tsx
-│ ├── context
-│ │ ├── TodoContext.tsx
-│ ├── App.tsx
-│ ├── index.tsx
+│   ├── components
+│   │   ├── FormWizard.tsx
+│   │   ├── StepOne.tsx
+│   │   ├── StepTwo.tsx
+│   │   ├── StepThree.tsx
+│   ├── context
+│   │   ├── TodoContext.tsx
+│   ├── App.tsx
+│   ├── index.tsx
 ├── package.json
 ├── README.md
+
